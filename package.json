@@ -1,0 +1,26 @@
+{
+  "name": "servicios",
+  "version": "1.0.0",
+  "description": "Backend de la app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "nodejs"
+  ],
+  "author": "julio",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.0",
+    "pg-promise": "^10.12.0"
+  }
+}
